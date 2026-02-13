@@ -1,0 +1,15 @@
+# robots.txt for DrivenMN
+# Place this file at the root of your domain as /robots.txt
+
+User-agent: *
+Allow: /
+
+# Disallow admin/dev pages if any
+Disallow: /admin/
+Disallow: /dev/
+
+# Sitemap location (create and upload sitemap.xml)
+Sitemap: https://drivenmn.com/sitemap.xml
+
+# Crawl-delay (optional, in seconds)
+Crawl-delay: 1

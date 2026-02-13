@@ -1,0 +1,1 @@
+export { MarineCeramicCoating } from './MarineCeramicCoating';
